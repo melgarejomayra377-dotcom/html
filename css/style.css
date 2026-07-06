@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.ypm-bg-primary {
+    background-color: #d4a373;
+}
+
+.ypm-bg-secondary {
+    background-color: #fefae0;
+}
+
+.ypm-text-accent {
+    color: #606c38;
+}
+
+.ypm-font-title {
+    font-family: 'Archivo Black', sans-serif;
+}
+
+.ypm-font-body {
+    font-family: 'Chelsea Market', system-ui;
+}
+
+.ypm-card-custom {
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+}
+
+.ypm-footer-style {
+    background-color: #283618;
+    color: #fefae0;
+}
+.ypm-bg-footer{
+    background-color: black;
+}
